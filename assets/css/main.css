@@ -933,6 +933,8 @@
 			#main .avatar img {
 				display: block;
 				margin: 0 auto;
+				width: calc(100% + 6em);
+				height: 1px;
 				border-radius: 100%;
 				box-shadow: 0 0 0 1.5em #ffffff;
 			}
